@@ -8,7 +8,7 @@ I’m on a mission to **master Java, DSA, and Full-Stack Web Development** while
 
 | Day | Topic (Java / DSA / Development) | Notes/Code |
 |----|----------------|------------|
-| 1  | Java Basics (Syntax, Variables, Data Types, Input-Output, Operators) | [Code](#) |
+| 1  | Java Basics (Syntax, Variables, Data Types, Input-Output, Operators) | [Code](https://github.com/kimaya444/DSA-to-Development/blob/main/JAVA/Basics.java) |
 | ...| ... | ... |
 
 📌 **Updating daily...**  
